@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Billing-Counter_Billing-invoice-using-React-js/static/css/main.7ef91a66.css",
+    "main.js": "/Billing-Counter_Billing-invoice-using-React-js/static/js/main.5e6b092e.js",
+    "index.html": "/Billing-Counter_Billing-invoice-using-React-js/index.html",
+    "main.7ef91a66.css.map": "/Billing-Counter_Billing-invoice-using-React-js/static/css/main.7ef91a66.css.map",
+    "main.5e6b092e.js.map": "/Billing-Counter_Billing-invoice-using-React-js/static/js/main.5e6b092e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef91a66.css",
+    "static/js/main.5e6b092e.js"
+  ]
+}
